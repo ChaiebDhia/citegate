@@ -1,0 +1,6702 @@
+{
+"agent": "extractive",
+"cases": {
+"age-ar-s00000-age": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"age-ar-s00001-age": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"age-ar-s00002-age": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"age-ar-s00003-age": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"age-ar-s00004-age": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"age-ar-s00005-age": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"age-ar-s00006-age": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"age-ar-s00007-age": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"age-ar-s00008-age": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"age-ar-s00009-age": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"age-ar-s00010-age": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"age-ar-s00011-age": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"age-ar-s00012-age": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"age-ar-s00013-age": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"age-ar-s00014-age": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"age-ar-s00015-age": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"age-ar-s00016-age": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"age-ar-s00017-age": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"age-ar-s00018-age": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"age-ar-s00019-age": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"age-ar-s00020-age": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"age-ar-s00021-age": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"age-ar-s00022-age": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"age-ar-s00023-age": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"age-ar-s00024-age": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"age-ar-s00025-age": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"age-ar-s00026-age": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"age-ar-s00027-age": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"age-ar-s00028-age": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"age-ar-s00029-age": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"age-ar-s00030-age": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"age-ar-s00031-age": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"age-ar-s00032-age": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"age-ar-s00033-age": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"age-ar-s00034-age": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"age-ar-s00035-age": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"age-ar-s00036-age": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"age-ar-s00037-age": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"age-ar-s00038-age": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"age-ar-s00039-age": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"age-ar-s00040-age": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"age-ar-s00041-age": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"age-ar-s00042-age": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"age-ar-s00043-age": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"age-ar-s00044-age": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"age-ar-s00045-age": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"age-ar-s00046-age": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"age-ar-s00047-age": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"age-en-s00000-age": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"age-en-s00001-age": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"age-en-s00002-age": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"age-en-s00003-age": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"age-en-s00004-age": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"age-en-s00005-age": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"age-en-s00006-age": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"age-en-s00007-age": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"age-en-s00008-age": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"age-en-s00009-age": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"age-en-s00010-age": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"age-en-s00011-age": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"age-en-s00012-age": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"age-en-s00013-age": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"age-en-s00014-age": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"age-en-s00015-age": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"age-en-s00016-age": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"age-en-s00017-age": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"age-en-s00018-age": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"age-en-s00019-age": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"age-en-s00020-age": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"age-en-s00021-age": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"age-en-s00022-age": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"age-en-s00023-age": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"age-en-s00024-age": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"age-en-s00025-age": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"age-en-s00026-age": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"age-en-s00027-age": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"age-en-s00028-age": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"age-en-s00029-age": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"age-en-s00030-age": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"age-en-s00031-age": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"age-en-s00032-age": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"age-en-s00033-age": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"age-en-s00034-age": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"age-en-s00035-age": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"age-en-s00036-age": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"age-en-s00037-age": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"age-en-s00038-age": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"age-en-s00039-age": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"age-en-s00040-age": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"age-en-s00041-age": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"age-en-s00042-age": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"age-en-s00043-age": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"age-en-s00044-age": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"age-en-s00045-age": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"age-en-s00046-age": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"age-en-s00047-age": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"age-fr-s00000-age": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"age-fr-s00001-age": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"age-fr-s00002-age": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"age-fr-s00003-age": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"age-fr-s00004-age": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"age-fr-s00005-age": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"age-fr-s00006-age": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"age-fr-s00007-age": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"age-fr-s00008-age": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"age-fr-s00009-age": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"age-fr-s00010-age": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"age-fr-s00011-age": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"age-fr-s00012-age": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"age-fr-s00013-age": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"age-fr-s00014-age": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"age-fr-s00015-age": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"age-fr-s00016-age": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"age-fr-s00017-age": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"age-fr-s00018-age": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"age-fr-s00019-age": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"age-fr-s00020-age": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"age-fr-s00021-age": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"age-fr-s00022-age": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"age-fr-s00023-age": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"age-fr-s00024-age": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"age-fr-s00025-age": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"age-fr-s00026-age": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"age-fr-s00027-age": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"age-fr-s00028-age": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"age-fr-s00029-age": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"age-fr-s00030-age": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"age-fr-s00031-age": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"age-fr-s00032-age": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"age-fr-s00033-age": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"age-fr-s00034-age": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"age-fr-s00035-age": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"age-fr-s00036-age": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"age-fr-s00037-age": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"age-fr-s00038-age": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"age-fr-s00039-age": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"age-fr-s00040-age": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"age-fr-s00041-age": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"age-fr-s00042-age": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"age-fr-s00043-age": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"age-fr-s00044-age": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"age-fr-s00045-age": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"age-fr-s00046-age": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"age-fr-s00047-age": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"days-ar-s00000-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"days-ar-s00001-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"days-ar-s00002-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"days-ar-s00003-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"days-ar-s00004-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"days-ar-s00005-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"days-ar-s00006-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"days-ar-s00007-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"days-ar-s00008-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"days-ar-s00009-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"days-ar-s00010-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"days-ar-s00011-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"days-ar-s00012-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"days-ar-s00013-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"days-ar-s00014-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"days-ar-s00015-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"days-ar-s00016-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"days-ar-s00017-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"days-ar-s00018-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"days-ar-s00019-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"days-ar-s00020-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"days-ar-s00021-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"days-ar-s00022-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"days-ar-s00023-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"days-ar-s00024-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"days-ar-s00025-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"days-ar-s00026-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"days-ar-s00027-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"days-ar-s00028-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"days-ar-s00029-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"days-ar-s00030-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"days-ar-s00031-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"days-ar-s00032-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"days-ar-s00033-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"days-ar-s00034-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"days-ar-s00035-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"days-ar-s00036-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"days-ar-s00037-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"days-ar-s00038-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"days-ar-s00039-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"days-ar-s00040-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"days-ar-s00041-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"days-ar-s00042-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"days-ar-s00043-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"days-ar-s00044-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"days-ar-s00045-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"days-ar-s00046-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"days-ar-s00047-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"days-en-s00000-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"days-en-s00001-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"days-en-s00002-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"days-en-s00003-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"days-en-s00004-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"days-en-s00005-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"days-en-s00006-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"days-en-s00007-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"days-en-s00008-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"days-en-s00009-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"days-en-s00010-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"days-en-s00011-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"days-en-s00012-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"days-en-s00013-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"days-en-s00014-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"days-en-s00015-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"days-en-s00016-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"days-en-s00017-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"days-en-s00018-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"days-en-s00019-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"days-en-s00020-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"days-en-s00021-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"days-en-s00022-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"days-en-s00023-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"days-en-s00024-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"days-en-s00025-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"days-en-s00026-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"days-en-s00027-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"days-en-s00028-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"days-en-s00029-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"days-en-s00030-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"days-en-s00031-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"days-en-s00032-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"days-en-s00033-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"days-en-s00034-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"days-en-s00035-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"days-en-s00036-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"days-en-s00037-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"days-en-s00038-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"days-en-s00039-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"days-en-s00040-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"days-en-s00041-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"days-en-s00042-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"days-en-s00043-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"days-en-s00044-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"days-en-s00045-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"days-en-s00046-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"days-en-s00047-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"days-fr-s00000-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"days-fr-s00001-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"days-fr-s00002-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"days-fr-s00003-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"days-fr-s00004-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"days-fr-s00005-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"days-fr-s00006-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"days-fr-s00007-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"days-fr-s00008-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"days-fr-s00009-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"days-fr-s00010-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"days-fr-s00011-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"days-fr-s00012-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"days-fr-s00013-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"days-fr-s00014-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"days-fr-s00015-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"days-fr-s00016-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"days-fr-s00017-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"days-fr-s00018-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"days-fr-s00019-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"days-fr-s00020-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"days-fr-s00021-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"days-fr-s00022-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"days-fr-s00023-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"days-fr-s00024-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"days-fr-s00025-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"days-fr-s00026-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"days-fr-s00027-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"days-fr-s00028-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"days-fr-s00029-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"days-fr-s00030-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"days-fr-s00031-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"days-fr-s00032-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"days-fr-s00033-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"days-fr-s00034-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"days-fr-s00035-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"days-fr-s00036-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"days-fr-s00037-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"days-fr-s00038-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"days-fr-s00039-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"days-fr-s00040-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"days-fr-s00041-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"days-fr-s00042-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"days-fr-s00043-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"days-fr-s00044-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"days-fr-s00045-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"days-fr-s00046-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"days-fr-s00047-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"fee-ar-s00001-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"fee-ar-s00002-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"fee-ar-s00004-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"fee-ar-s00005-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"fee-ar-s00007-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"fee-ar-s00008-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"fee-ar-s00010-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"fee-ar-s00011-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"fee-ar-s00013-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"fee-ar-s00014-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"fee-ar-s00016-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"fee-ar-s00017-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"fee-ar-s00019-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"fee-ar-s00020-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"fee-ar-s00022-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"fee-ar-s00023-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"fee-ar-s00025-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"fee-ar-s00026-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"fee-ar-s00028-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"fee-ar-s00029-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"fee-ar-s00031-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"fee-ar-s00032-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"fee-ar-s00034-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"fee-ar-s00035-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"fee-ar-s00037-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"fee-ar-s00038-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"fee-ar-s00040-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"fee-ar-s00041-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"fee-ar-s00043-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"fee-ar-s00044-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"fee-ar-s00046-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"fee-ar-s00047-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"fee-en-s00001-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"fee-en-s00002-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"fee-en-s00004-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"fee-en-s00005-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"fee-en-s00007-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"fee-en-s00008-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"fee-en-s00010-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"fee-en-s00011-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"fee-en-s00013-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"fee-en-s00014-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"fee-en-s00016-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"fee-en-s00017-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"fee-en-s00019-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"fee-en-s00020-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"fee-en-s00022-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"fee-en-s00023-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"fee-en-s00025-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"fee-en-s00026-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"fee-en-s00028-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"fee-en-s00029-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"fee-en-s00031-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"fee-en-s00032-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"fee-en-s00034-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"fee-en-s00035-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"fee-en-s00037-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"fee-en-s00038-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"fee-en-s00040-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"fee-en-s00041-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"fee-en-s00043-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"fee-en-s00044-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"fee-en-s00046-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"fee-en-s00047-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"fee-fr-s00001-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"fee-fr-s00002-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"fee-fr-s00004-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"fee-fr-s00005-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"fee-fr-s00007-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"fee-fr-s00008-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"fee-fr-s00010-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"fee-fr-s00011-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"fee-fr-s00013-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"fee-fr-s00014-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"fee-fr-s00016-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"fee-fr-s00017-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"fee-fr-s00019-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"fee-fr-s00020-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"fee-fr-s00022-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"fee-fr-s00023-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"fee-fr-s00025-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"fee-fr-s00026-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"fee-fr-s00028-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"fee-fr-s00029-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"fee-fr-s00031-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"fee-fr-s00032-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"fee-fr-s00034-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"fee-fr-s00035-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"fee-fr-s00037-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"fee-fr-s00038-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"fee-fr-s00040-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"fee-fr-s00041-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"fee-fr-s00043-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"fee-fr-s00044-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"fee-fr-s00046-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"fee-fr-s00047-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"injection-ar-s00000-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"injection-ar-s00006-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"injection-ar-s00012-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"injection-ar-s00018-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"injection-ar-s00024-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"injection-ar-s00030-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"injection-ar-s00036-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"injection-ar-s00042-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"injection-en-s00000-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"injection-en-s00006-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"injection-en-s00012-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"injection-en-s00018-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"injection-en-s00024-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"injection-en-s00030-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"injection-en-s00036-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"injection-en-s00042-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"injection-fr-s00000-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"injection-fr-s00006-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"injection-fr-s00012-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"injection-fr-s00018-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"injection-fr-s00024-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"injection-fr-s00030-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"injection-fr-s00036-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"injection-fr-s00042-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"multihop-ar-s00000": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"multihop-ar-s00001": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"multihop-ar-s00002": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"multihop-ar-s00003": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"multihop-ar-s00004": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"multihop-ar-s00005": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"multihop-ar-s00006": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"multihop-ar-s00007": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"multihop-ar-s00008": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"multihop-ar-s00009": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"multihop-ar-s00010": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"multihop-ar-s00011": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"multihop-ar-s00012": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"multihop-ar-s00013": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"multihop-ar-s00014": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"multihop-ar-s00015": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"multihop-ar-s00016": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"multihop-ar-s00017": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"multihop-ar-s00018": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"multihop-ar-s00019": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"multihop-ar-s00020": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"multihop-ar-s00021": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"multihop-ar-s00022": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"multihop-ar-s00023": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"multihop-ar-s00024": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"multihop-ar-s00025": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"multihop-ar-s00026": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"multihop-ar-s00027": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"multihop-ar-s00028": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"multihop-ar-s00029": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"multihop-ar-s00030": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"multihop-ar-s00031": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"multihop-ar-s00032": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"multihop-ar-s00033": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"multihop-ar-s00034": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"multihop-ar-s00035": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"multihop-ar-s00036": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"multihop-ar-s00037": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"multihop-ar-s00038": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"multihop-ar-s00039": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"multihop-ar-s00040": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"multihop-ar-s00041": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"multihop-ar-s00042": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"multihop-ar-s00043": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"multihop-ar-s00044": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"multihop-ar-s00045": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"multihop-ar-s00046": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"multihop-ar-s00047": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"multihop-en-s00000": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"multihop-en-s00001": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"multihop-en-s00002": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"multihop-en-s00003": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"multihop-en-s00004": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"multihop-en-s00005": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"multihop-en-s00006": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"multihop-en-s00007": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"multihop-en-s00008": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"multihop-en-s00009": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"multihop-en-s00010": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"multihop-en-s00011": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"multihop-en-s00012": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"multihop-en-s00013": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"multihop-en-s00014": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"multihop-en-s00015": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"multihop-en-s00016": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"multihop-en-s00017": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"multihop-en-s00018": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"multihop-en-s00019": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"multihop-en-s00020": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"multihop-en-s00021": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"multihop-en-s00022": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"multihop-en-s00023": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"multihop-en-s00024": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"multihop-en-s00025": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"multihop-en-s00026": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"multihop-en-s00027": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"multihop-en-s00028": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"multihop-en-s00029": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"multihop-en-s00030": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"multihop-en-s00031": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"multihop-en-s00032": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"multihop-en-s00033": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"multihop-en-s00034": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"multihop-en-s00035": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"multihop-en-s00036": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"multihop-en-s00037": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"multihop-en-s00038": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"multihop-en-s00039": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"multihop-en-s00040": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"multihop-en-s00041": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"multihop-en-s00042": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"multihop-en-s00043": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"multihop-en-s00044": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"multihop-en-s00045": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"multihop-en-s00046": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"multihop-en-s00047": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"multihop-fr-s00000": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"multihop-fr-s00001": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"multihop-fr-s00002": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"multihop-fr-s00003": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"multihop-fr-s00004": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"multihop-fr-s00005": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"multihop-fr-s00006": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"multihop-fr-s00007": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"multihop-fr-s00008": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"multihop-fr-s00009": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"multihop-fr-s00010": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"multihop-fr-s00011": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"multihop-fr-s00012": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"multihop-fr-s00013": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"multihop-fr-s00014": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"multihop-fr-s00015": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"multihop-fr-s00016": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"multihop-fr-s00017": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"multihop-fr-s00018": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"multihop-fr-s00019": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"multihop-fr-s00020": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"multihop-fr-s00021": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"multihop-fr-s00022": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"multihop-fr-s00023": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"multihop-fr-s00024": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"multihop-fr-s00025": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"multihop-fr-s00026": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"multihop-fr-s00027": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"multihop-fr-s00028": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"multihop-fr-s00029": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"multihop-fr-s00030": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"multihop-fr-s00031": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"multihop-fr-s00032": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"multihop-fr-s00033": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"multihop-fr-s00034": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"multihop-fr-s00035": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"multihop-fr-s00036": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"multihop-fr-s00037": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"multihop-fr-s00038": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"multihop-fr-s00039": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"multihop-fr-s00040": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"multihop-fr-s00041": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"multihop-fr-s00042": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"multihop-fr-s00043": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"multihop-fr-s00044": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"multihop-fr-s00045": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"multihop-fr-s00046": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"multihop-fr-s00047": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"office-ar-s00000-office": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"office-ar-s00001-office": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"office-ar-s00002-office": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"office-ar-s00003-office": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"office-ar-s00004-office": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"office-ar-s00005-office": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"office-ar-s00006-office": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"office-ar-s00007-office": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"office-ar-s00008-office": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"office-ar-s00009-office": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"office-ar-s00010-office": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"office-ar-s00011-office": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"office-ar-s00012-office": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"office-ar-s00013-office": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"office-ar-s00014-office": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"office-ar-s00015-office": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"office-ar-s00016-office": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"office-ar-s00017-office": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"office-ar-s00018-office": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"office-ar-s00019-office": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"office-ar-s00020-office": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"office-ar-s00021-office": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"office-ar-s00022-office": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"office-ar-s00023-office": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"office-ar-s00024-office": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"office-ar-s00025-office": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"office-ar-s00026-office": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"office-ar-s00027-office": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"office-ar-s00028-office": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"office-ar-s00029-office": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"office-ar-s00030-office": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"office-ar-s00031-office": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"office-ar-s00032-office": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"office-ar-s00033-office": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"office-ar-s00034-office": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"office-ar-s00035-office": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"office-ar-s00036-office": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"office-ar-s00037-office": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"office-ar-s00038-office": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"office-ar-s00039-office": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"office-ar-s00040-office": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"office-ar-s00041-office": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"office-ar-s00042-office": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"office-ar-s00043-office": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"office-ar-s00044-office": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"office-ar-s00045-office": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"office-ar-s00046-office": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"office-ar-s00047-office": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"office-en-s00000-office": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"office-en-s00001-office": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"office-en-s00002-office": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"office-en-s00003-office": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"office-en-s00004-office": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"office-en-s00005-office": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"office-en-s00006-office": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"office-en-s00007-office": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"office-en-s00008-office": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"office-en-s00009-office": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"office-en-s00010-office": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"office-en-s00011-office": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"office-en-s00012-office": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"office-en-s00013-office": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"office-en-s00014-office": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"office-en-s00015-office": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"office-en-s00016-office": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"office-en-s00017-office": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"office-en-s00018-office": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"office-en-s00019-office": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"office-en-s00020-office": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"office-en-s00021-office": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"office-en-s00022-office": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"office-en-s00023-office": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"office-en-s00024-office": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"office-en-s00025-office": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"office-en-s00026-office": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"office-en-s00027-office": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"office-en-s00028-office": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"office-en-s00029-office": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"office-en-s00030-office": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"office-en-s00031-office": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"office-en-s00032-office": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"office-en-s00033-office": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"office-en-s00034-office": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"office-en-s00035-office": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"office-en-s00036-office": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"office-en-s00037-office": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"office-en-s00038-office": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"office-en-s00039-office": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"office-en-s00040-office": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"office-en-s00041-office": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"office-en-s00042-office": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"office-en-s00043-office": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"office-en-s00044-office": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"office-en-s00045-office": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"office-en-s00046-office": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"office-en-s00047-office": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"office-fr-s00000-office": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"office-fr-s00001-office": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"office-fr-s00002-office": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"office-fr-s00003-office": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"office-fr-s00004-office": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"office-fr-s00005-office": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"office-fr-s00006-office": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"office-fr-s00007-office": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"office-fr-s00008-office": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"office-fr-s00009-office": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"office-fr-s00010-office": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"office-fr-s00011-office": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"office-fr-s00012-office": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"office-fr-s00013-office": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"office-fr-s00014-office": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"office-fr-s00015-office": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"office-fr-s00016-office": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"office-fr-s00017-office": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"office-fr-s00018-office": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"office-fr-s00019-office": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"office-fr-s00020-office": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"office-fr-s00021-office": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"office-fr-s00022-office": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"office-fr-s00023-office": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"office-fr-s00024-office": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"office-fr-s00025-office": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"office-fr-s00026-office": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"office-fr-s00027-office": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"office-fr-s00028-office": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"office-fr-s00029-office": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"office-fr-s00030-office": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"office-fr-s00031-office": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"office-fr-s00032-office": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"office-fr-s00033-office": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"office-fr-s00034-office": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"office-fr-s00035-office": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"office-fr-s00036-office": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"office-fr-s00037-office": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"office-fr-s00038-office": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"office-fr-s00039-office": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"office-fr-s00040-office": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"office-fr-s00041-office": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"office-fr-s00042-office": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"office-fr-s00043-office": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"office-fr-s00044-office": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"office-fr-s00045-office": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"office-fr-s00046-office": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"office-fr-s00047-office": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"oos-ar-0-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"oos-ar-0-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"oos-ar-1-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"oos-ar-1-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"oos-ar-2-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"oos-ar-2-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"oos-ar-3-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"oos-ar-3-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"oos-en-0-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"oos-en-0-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"oos-en-1-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"oos-en-1-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"oos-en-2-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"oos-en-2-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"oos-en-3-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"oos-en-3-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"oos-fr-0-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"oos-fr-0-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"oos-fr-1-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"oos-fr-1-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"oos-fr-2-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"oos-fr-2-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"oos-fr-3-days": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"oos-fr-3-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"stale-ar-s00003-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"stale-ar-s00009-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"stale-ar-s00015-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"stale-ar-s00021-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"stale-ar-s00027-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"stale-ar-s00033-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"stale-ar-s00039-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"stale-ar-s00045-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"stale-en-s00003-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"stale-en-s00009-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"stale-en-s00015-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"stale-en-s00021-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"stale-en-s00027-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"stale-en-s00033-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"stale-en-s00039-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"stale-en-s00045-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"stale-fr-s00003-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"stale-fr-s00009-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"stale-fr-s00015-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"stale-fr-s00021-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"stale-fr-s00027-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"stale-fr-s00033-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"stale-fr-s00039-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+},
+"stale-fr-s00045-fee": {
+"citations_valid": 1,
+"clean": 1,
+"correct": 1,
+"faithful": 1,
+"lang_ok": 1,
+"passed": 1,
+"refusal_ok": 1
+}
+},
+"version": 1
+}
