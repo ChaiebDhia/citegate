@@ -42,7 +42,7 @@ citegate run --html report.html          # score the reference agent, write a re
 citegate gate                            # exit 1 on floor or regression failure
 citegate meta                            # mutation-test the evals themselves
 citegate bench --services 2000           # throughput on a 30k-case world
-pytest                                   # 63 tests, 99 % coverage
+pytest                                   # 64 tests, 99 % coverage
 ```
 
 ## Results (reference agent, 744 golden cases, seed 7)
