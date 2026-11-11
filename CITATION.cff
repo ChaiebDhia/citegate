@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use citegate, please cite it as below."
+title: "citegate: evals as unit tests for citation-grounded public-sector AI agents"
+type: software
+authors:
+  - family-names: Chaieb
+    given-names: Dhia
+version: 0.1.0
+date-released: 2026-11-11
+license: MIT
+repository-code: "https://github.com/ChaiebDhia/citegate"
+keywords:
+  - llm evaluation
+  - retrieval-augmented generation
+  - mutation testing
+  - multilingual
