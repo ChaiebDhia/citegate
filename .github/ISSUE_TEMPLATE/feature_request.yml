@@ -1,0 +1,11 @@
+name: Feature request
+description: A new metric, failure mode, language or provider
+labels: [enhancement]
+body:
+  - type: textarea
+    id: idea
+    attributes:
+      label: The failure mode or capability
+      description: For a new metric, describe the defect it must catch so a mutant can be written.
+    validations:
+      required: true

@@ -1,0 +1,18 @@
+name: Bug report
+description: Something produced a wrong verdict, a crash or a confusing result
+labels: [bug]
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened
+      description: Include the exact command and the output.
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: citegate version and Python version
+      placeholder: "citegate 0.1.0, Python 3.12"
+    validations:
+      required: true
