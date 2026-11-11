@@ -93,3 +93,14 @@ def test_cli_creates_missing_output_directories(tmp_path: Path) -> None:
     board = tmp_path / "docs" / "leaderboard" / "board.md"
     assert main(["compare", str(jsonl), "--md", str(board)]) == 0
     assert board.exists()
+
+
+def test_compare_expands_wildcards_and_rejects_missing_files(tmp_path: Path) -> None:
+    for name in ("a", "b"):
+        main(["run", "--sample", "24", "--out", str(tmp_path / f"{name}.jsonl")])
+    board = tmp_path / "board.md"
+    assert main(["compare", str(tmp_path / "*.jsonl"), "--md", str(board)]) == 0
+    text = board.read_text(encoding="utf-8")
+    assert "| a |" in text and "| b |" in text
+    with pytest.raises(SystemExit, match="no such results file"):
+        main(["compare", str(tmp_path / "missing.jsonl")])

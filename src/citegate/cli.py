@@ -4,6 +4,7 @@ from __future__ import annotations
 
 import argparse
 import asyncio
+import glob
 import json
 import sys
 import time
@@ -78,6 +79,14 @@ def _write(path: str, text: str) -> None:
     target = Path(path)
     target.parent.mkdir(parents=True, exist_ok=True)
     target.write_text(text, encoding="utf-8")
+
+
+def _expand(patterns: Sequence[str]) -> list[str]:
+    """Expand wildcards ourselves, because PowerShell and cmd.exe do not."""
+    files: list[str] = []
+    for pattern in patterns:
+        files.extend(sorted(glob.glob(pattern)) or [pattern])
+    return files
 
 
 def _emit(text: str, path: str | None) -> None:
@@ -161,7 +170,9 @@ def cmd_compare(args: argparse.Namespace) -> int:
         "out of scope | p50 latency |\n|---|---|---|---|---|---|---|---|---|"
     )
     rows = []
-    for path in args.files:
+    for path in _expand(args.files):
+        if not Path(path).is_file():
+            raise SystemExit(f"citegate: no such results file: {path}")
         results = list(load_results(Path(path)).values())
         s = summarise(Path(path).stem, results)
         a = s.groups["ALL"]
