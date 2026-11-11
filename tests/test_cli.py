@@ -81,3 +81,15 @@ def test_module_entry_point_reports_version() -> None:
         [sys.executable, "-m", "citegate", "--version"], capture_output=True, text=True, check=True
     )
     assert proc.stdout.startswith("citegate ")
+
+
+def test_cli_creates_missing_output_directories(tmp_path: Path) -> None:
+    html = tmp_path / "docs" / "results" / "r.html"
+    md = tmp_path / "docs" / "results" / "r.md"
+    jsonl = tmp_path / "runs" / "nested" / "r.jsonl"
+    assert main(["run", "--sample", "24", "--html", str(html), "--md", str(md)]) == 0
+    assert html.exists() and md.exists()
+    main(["run", "--sample", "24", "--out", str(jsonl)])
+    board = tmp_path / "docs" / "leaderboard" / "board.md"
+    assert main(["compare", str(jsonl), "--md", str(board)]) == 0
+    assert board.exists()

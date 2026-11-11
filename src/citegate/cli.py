@@ -73,10 +73,19 @@ def _run(
     return agent, world, results
 
 
+def _write(path: str, text: str) -> None:
+    """Write a report, creating missing parent directories first."""
+    target = Path(path)
+    target.parent.mkdir(parents=True, exist_ok=True)
+    target.write_text(text, encoding="utf-8")
+
+
 def _emit(text: str, path: str | None) -> None:
     print(text)
     if path:
-        with open(path, "a", encoding="utf-8") as fh:
+        target = Path(path)
+        target.parent.mkdir(parents=True, exist_ok=True)
+        with target.open("a", encoding="utf-8") as fh:
             fh.write(text + "\n")
 
 
@@ -85,7 +94,7 @@ def cmd_run(args: argparse.Namespace) -> int:
     summary = summarise(agent.name, results)
     _emit(markdown(summary), args.md)
     if args.html:
-        Path(args.html).write_text(html_report(summary, results), encoding="utf-8")
+        _write(args.html, html_report(summary, results))
     return 0
 
 
@@ -104,7 +113,7 @@ def cmd_gate(args: argparse.Namespace) -> int:
     report = evaluate_gate(summary, results, baseline, config)
     _emit(markdown(summary) + "\n" + report.markdown(), args.md)
     if args.html:
-        Path(args.html).write_text(html_report(summary, results), encoding="utf-8")
+        _write(args.html, html_report(summary, results))
     return 0 if report.passed else 1
 
 
